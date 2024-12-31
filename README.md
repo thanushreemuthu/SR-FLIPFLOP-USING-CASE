@@ -67,7 +67,7 @@ endmodule
 SR FLIPFLOP
 ![Screenshot 2024-12-03 141823](https://github.com/user-attachments/assets/c51acc62-b248-4231-b892-587e6c8262e4)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 SR FLIPFLOP
 ![Screenshot 2024-12-03 142049](https://github.com/user-attachments/assets/6df71802-0236-4bef-8632-db9c706f8222)
